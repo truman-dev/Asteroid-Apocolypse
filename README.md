@@ -1,4 +1,7 @@
-Description of Game 
+#### Overview
+This is a collaborative assignment for an introductory python course on object oriented programming with my good friend Andrew. The code here is quite crude and inefficient, and we have become more efficient over the years. Nevertheless, this piece of code shares our humble beginnings.
+
+#### Description of Game 
 
 Asteroid Apocalypse is a typing game. You must type the word displayed on the screen, this will then fire a bullet from the ship. Before you type the word, you must first reposition the ship so that it will hit the asteroid that you want to destroy, this leaves more room for failure. Once defeated, you can quit or restart from main menu. 
 
