@@ -4,6 +4,9 @@ This is a collaborative assignment for an introductory python course on object o
 #### Description of Game 
 
 Asteroid Apocalypse is a typing game. You must type the word displayed on the screen, this will then fire a bullet from the ship. Before you type the word, you must first reposition the ship so that it will hit the asteroid that you want to destroy, this leaves more room for failure. Once defeated, you can quit or restart from main menu. 
+
+![Alt text](https://github.com/truman-dev/Asteroid-Apocolypse/blob/master/game_demo.png?raw=true)
+
 #### Credits
 
 We used this studied and derived our threading based on this https://www.pygame.org/project/1959/3479. 
